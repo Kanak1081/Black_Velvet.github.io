@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.navbar{
+    padding: 2% 5% 2% 4%;
+}
+.nav-link{
+    margin-right: 20px;
+    font-size: 1.2rem;
+}
+.navbar-toggler-icon{
+    color: red;
+}
+
+.features-section{
+    padding: 5% 5% 5% 5%;
+}
+
+footer{
+    padding: 5% 2% 0 2%;
+}
